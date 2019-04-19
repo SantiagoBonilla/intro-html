@@ -318,10 +318,6 @@ h3 {
   }
 }
 
-.img-fluid {
-      background-image: #0008;
-}
-
 footer.footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
